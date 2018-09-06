@@ -1,0 +1,7 @@
+step 1-create account in github
+step 2-create account in directory
+step 3-create account in repository
+step 4-entered commands 
+step 5-pwd
+step 6-mkdir name
+step 7-command ls
