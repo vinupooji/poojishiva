@@ -1,0 +1,7 @@
+
+dl3@soetcse:~/poojitha$ python3 labs31.py
+b is greater than a
+dl3@soetcse:~/poojitha$ 
+
+
+
