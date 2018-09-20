@@ -2,4 +2,7 @@ dl3@soetcse:~/poojitha$ python3 labs32.py
 enter the value of a54
 a is even number
 
+dl3@soetcse:~/poojitha$ python3 labs32.py
+enter the value of a77
+a is odd number
 
