@@ -1,0 +1,7 @@
+dl3@soetcse:~/poojitha$ python3 labs33.py
+enter the value of a6
+a is a positive number
+dl3@soetcse:~/poojitha$ python3 labs33.py
+enter the value of a-9
+a is a negative number
+
