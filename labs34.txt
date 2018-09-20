@@ -1,0 +1,21 @@
+dl3@soetcse:~/poojitha$ python3 labs34.py
+enter the marks89
+A
+dl3@soetcse:~/poojitha$ 92
+92: command not found
+dl3@soetcse:~/poojitha$ python3 labs34.py
+enter the marks92
+A+
+dl3@soetcse:~/poojitha$ python3 labs34.py
+enter the marks85
+A
+dl3@soetcse:~/poojitha$ python3 labs34.py
+enter the marks69  
+B
+dl3@soetcse:~/poojitha$ python3 labs34.py
+enter the marks74
+B+
+dl3@soetcse:~/poojitha$ python3 labs34.py
+enter the marks39
+fail
+
