@@ -4,4 +4,8 @@ b is greater than a
 dl3@soetcse:~/poojitha$ 
 
 
+dl3@soetcse:~/poojitha$ python3 labs31.py
+enter a value45
+enter b value67
+b is greater than a
 
