@@ -1,0 +1,7 @@
+dl3@soetcse:~/poojitha$ python3 labs47.py
+enter r to roll the dice,q to quitr
+6
+enter r to roll the dice,q to quitr
+4
+enter r to roll the dice,q to quitq
+

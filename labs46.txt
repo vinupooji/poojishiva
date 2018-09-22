@@ -1,0 +1,7 @@
+dl3@soetcse:~/poojitha$ python3 labs46.py
+28
+dl3@soetcse:~/poojitha$ python3 labs46.py
+28
+dl3@soetcse:~/poojitha$ python3 labs46.py
+30
+

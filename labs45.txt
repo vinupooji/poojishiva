@@ -1,0 +1,33 @@
+dl3@soetcse:~/poojitha$ python3 labs45.py
+3
+dl3@soetcse:~/poojitha$ python3 labs45.py
+3
+dl3@soetcse:~/poojitha$ python3 labs45.py
+8
+dl3@soetcse:~/poojitha$ python3 labs45.py
+5
+dl3@soetcse:~/poojitha$ python3 labs45.py
+5
+dl3@soetcse:~/poojitha$ python3 labs45.py
+1
+dl3@soetcse:~/poojitha$ python3 labs45.py
+3
+dl3@soetcse:~/poojitha$ python3 labs45.py
+6
+dl3@soetcse:~/poojitha$ python3 labs45.py
+5
+dl3@soetcse:~/poojitha$ python3 labs45.py
+7
+dl3@soetcse:~/poojitha$ python3 labs45.py
+6
+dl3@soetcse:~/poojitha$ python3 labs45.py
+8
+dl3@soetcse:~/poojitha$ python3 labs45.py
+8
+dl3@soetcse:~/poojitha$ python3 labs45.py
+10
+dl3@soetcse:~/poojitha$ python3 labs45.py
+10
+dl3@soetcse:~/poojitha$ python3 labs45.py
+2
+
