@@ -1,0 +1,7 @@
+dl3@soetcse:~/poojitha$ python3 labs43.py
+5
+4
+3
+2
+1
+

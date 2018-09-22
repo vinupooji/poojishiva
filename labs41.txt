@@ -1,0 +1,6 @@
+dl3@soetcse:~/poojitha$ python3 labs41.py
+enter the value of a67
+enter the value of b87
+enter the value of c34
+b is greater
+
