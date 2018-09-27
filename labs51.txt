@@ -1,0 +1,26 @@
+dl3@soetcse:~/poojitha$ python3 labs51.py
+enter r to roll the dice,q to quitr
+3
+score is 3
+enter r to roll the dice,q to quitr
+6
+score is 9
+enter r to roll the dice,q to quitr
+4
+score is 13
+you have climbed the ladder
+enter r to roll the dice,q to quitr
+6
+score is 40
+you have climbed the ladder
+enter r to roll the dice,q to quitr
+4
+score is 72
+enter r to roll the dice,q to quitr
+4
+score is 76
+you have climbed the ladder
+enter r to roll the dice,q to quitr
+5
+score is 102
+
