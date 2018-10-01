@@ -1,0 +1,24 @@
+dl3@soetcse:~/poojitha$ python3 labs61.py
+30
+dl3@soetcse:~/poojitha$ python3 labs62.py
+-10
+dl3@soetcse:~/poojitha$ python3 labs63.py
+40
+dl3@soetcse:~/poojitha$ python3 labs64.py
+0.75
+dl3@soetcse:~/poojitha$ python3 labs65.py
+19
+dl3@soetcse:~/poojitha$ python3 labs66.py
+enter number A: 26
+enter number B: 12
+addition: 38
+subtraction:  14
+multiplication:  312
+division:  2.1666666666666665
+dl3@soetcse:~/poojitha$ python3 labs67.py
+orange
+dl3@soetcse:~/poojitha$ python3 labs67.py
+Poojitha
+dl3@soetcse:~/poojitha$ python3 labs69.py
+orange
+
