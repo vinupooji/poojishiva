@@ -1,0 +1,22 @@
+>>> a='hello world'
+>>> a[1]
+'e'
+>>> a[2:5]
+'llo'
+>>> a.upper()
+'HELLO WORLD'
+>>> a.lower()
+'hello world'
+>>> a.replace("h","a")
+'aello world'
+>>> b="   dl3 batch   "
+>>> b.strip("  ")
+'dl3 batch'
+>>> c="hi , how r u"
+>>> c.split(",")
+['hi ', ' how r u']
+>>> a*3
+'hello worldhello worldhello world'
+>>> a+b
+'hello world   dl3 batch   '
+
